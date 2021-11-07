@@ -44,7 +44,7 @@ It is not recommended to install all tools.
 
 ### Installation
 ```bash
-git clone https://github.com/s-h-3-l-l/katoolin3;
+git clone https://github.com/thirupathi-chintu/katoolin3;
 cd katoolin3;
 chmod +x ./install.sh;
 sudo ./install.sh;
@@ -90,7 +90,7 @@ sudo ./update.sh;
 ```  
 
 ### Something doesn't work?
-Hit me up on [Github](https://github.com/s-h-3-l-l/katoolin3/issues/new/choose).
+Hit me up on [Github](https://github.com/thirupathi-chintu/katoolin3/issues/new/choose).
 
 ### Uninstalling
 To uninstall katoolin3 execute
